@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.aaa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    align-items: center;
+}
+.logo1{
+    margin-right: 16px;
+}
+.botton{
+    display: flex;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+}
+.nav_list{
+    list-style: none;
+  
+}
+.dark{
+    font-weight: 600;
+}
+.nav_link{
+    text-decoration: none;
+    margin-right: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+}
+.botton1{
+    font-family: Poppins;
+    margin-right: 24px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #173A56;
+    padding: 10px 25px;
+    text-decoration: none;
+    border: 1px solid #BCD0E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}    
+.botton2{
+    text-decoration: none;
+    padding: 10px 25px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #02897A;
+    border-radius: 4px;
+    margin-right: 24px;
+}
+.radio{
+    width: 32px;
+    height: 32px;
+}
+.card1{
+    margin-top: 120px;
+}
+.bbb{
+    display: flex;
+}
+.work{
+    width: 518px;  
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 60px;
+    color: #22343D;
+}
+.text{
+    width: 458px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #22343D;
+    margin-top: 18px;
+}
+.down{ 
+    background: #02897A;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 25px;
+    display: inline-block;
+    margin-top: 60px;
+}
+.down2{
+    font-family: Poppins;
+    color: #02897A;
+}
+.icon{
+    width: 17px;
+    height: 17px;
+    margin-left: 30px;
+}
+.images1{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.product{
+    margin-top: 85px;
+    font-family: Poppins;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #22343D;
+}
+.cards{
+    display: flex;
+    margin-top: 58px;
+}
+.cards1{
+    margin-right: 46px;
+}
+.tema{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #22343D;
+    margin-top: 30px;
+}
+.card_text{
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;
+    margin-top: 15px;
+    
+}
+.down3{
+    text-decoration: none;
+    margin-top: 34px;
+    background: #02897A;
+    border-radius: 4px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px; 
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 25px;
+    width: 175px;
+    height: 53px;
+    text-align: center;
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.silka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+/* .sss{
+    background-image: url('Bg.png');
+} */
+.qwe{
+    display: flex;
+    margin-top: 151px;
+}
+.card-name{
+    width: 189px;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #22343D;
+}
+.card-name2{
+    width: 224px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 48px;
+    color: #22343D;
+    margin-top: 10px;
+}
+.card-text2{
+    margin-top: 23px;
+    width: 486px;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;
+}
+.secont-name{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;
+    margin-top: 30px;
+}
+.secont-text{
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;
+    margin-top: 12px;
+}
